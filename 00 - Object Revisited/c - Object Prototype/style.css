@@ -1,0 +1,23 @@
+
+p {
+    /* Font Family */
+    font-family: value;     /* = nama font, generic font */
+
+    /* Font Size */
+    font-size: value;       /* = satuan css: pixels, persen */
+
+    /* Font Weight */
+    font-weight: value;     /* = bold, light, dsb. */
+
+    /* Font Variant */
+    font-variant: value;    /* = normal, small-caps */
+
+    /* Font Style */
+    font-style: value;      /* = normal, italic, oblique */
+}   
+
+
+
+
+
+
