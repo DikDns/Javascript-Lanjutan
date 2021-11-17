@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "DikDns",
+        "id": "001",
+        "identifier": "DnHqER",
+        "type": "human",
+        "timePlayed": 130
+    },
+    {
+        "name" : "Doobwuz",
+        "id": "002",
+        "identifier": "HTDsJeS",
+        "type": "elf",
+        "timePlayed": 50
+    },
+    {
+        "name" : "Aidenzzy",
+        "id": "003",
+        "identifier": "aSpOLk",
+        "type": "human",
+        "timePlayed": 640
+    }
+]
